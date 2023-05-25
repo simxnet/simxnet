@@ -1,16 +1,16 @@
-<h2><img src="https://cdn.discordapp.com/emojis/1100181376730402906.gif?quality=lossless" width="40"> Guten tag y'all, I'm Chiko <img src="https://a.ppy.sh/15907233" width="50"></h2>
-<a href="https://twitter.com/Zzul0714/status/1654451338179395585?s=20"><img align='right' src="https://cdn.discordapp.com/attachments/1109162815866023976/1109163700583153705/FvXKt8paEAAR6Ak1.png" width="230"></a>
-<p><em>Developer at <a href="https://github.com/hakureiapp">Hakurei</a></em></p>
+<h2>Elo I am Runa 🐔</h2>
+<img align='right' src="https://imgur.com/Idjj7mk.png" width="230">
+<p><em>Developer at <a href="https://github.com/hakureiapp">Hakurei</a> and <a href="https://github.com/zeyrbot">Zeyr</a></em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/chikoxq?label=Follow)](https://twitter.com/intent/follow?screen_name=chikoxq)
-![GitHub followers](https://img.shields.io/github/followers/chikof?label=Follow&style=social)
-![](https://komarev.com/ghpvc/?username=chikof&color=blue)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ruunao?label=Follow)](https://twitter.com/intent/follow?screen_name=ruunao)
+![GitHub followers](https://img.shields.io/github/followers/ruunao?label=Follow&style=social)
+![](https://komarev.com/ghpvc/?username=ruunao&color=blue)
 
 ### 📫 Get in touch
-Hello there! If you're interested in getting in touch with me, feel free to reach out on my [Discord server](https://discord.gg/sejc7TnX6N). I'm looking forward to connecting with you!
+No.
 
 ### ⚙️ Stack
-![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix)
+![](https://skillicons.dev/icons?i=git,docker,js,ts,cloudflare,css,deno,express,cpp,arduino,graphql,html,nestjs,react,apollo,bash,lua,nextjs,nodejs,ps,powershell,neovim,postgres,tailwind,prisma)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C383%20hrs%207%20mins-blue)
