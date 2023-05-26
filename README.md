@@ -13,9 +13,9 @@ No.
 ![](https://skillicons.dev/icons?i=git,docker,js,ts,cloudflare,css,deno,express,cpp,arduino,graphql,html,nestjs,react,apollo,bash,lua,nextjs,nodejs,ps,powershell,neovim,postgres,tailwind,prisma)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-463.3%20thousand%20lines%20of%20code-blue)
 
@@ -58,14 +58,16 @@ Sunday                   102 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               1 min               ████████████████████████░   95.54 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+TypeScript               1 hr 21 mins        █████████████████████████   98.97 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+VS Code                  1 hr 21 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,7 +83,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2023 21:58:37 UTC
+ Last Updated on 26/05/2023 01:20:27 UTC
 <!--END_SECTION:waka-->
 
 
