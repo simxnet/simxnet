@@ -10,7 +10,7 @@
 No.
 
 ### ⚙️ Stack
-![](https://skillicons.dev/icons?i=git,docker,js,ts,cloudflare,css,deno,express,cpp,arduino,graphql,html,nestjs,react,apollo,bash,lua,nextjs,nodejs,ps,powershell,neovim,postgres,tailwind,prisma)
+![](https://skillicons.dev/icons?i=git,docker,js,ts,cloudflare,css,deno,express,cpp,rust,arduino,graphql,html,nestjs,react,apollo,bash,lua,nextjs,nodejs,ps,powershell,neovim,postgres,tailwind,prisma)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2014%20mins-blue)
