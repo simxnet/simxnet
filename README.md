@@ -1,13 +1,5 @@
-<h2>Elo I am Runa 🐔</h2>
-<img align='right' src="https://imgur.com/Idjj7mk.png" width="230">
+<h2>simxnet</h2>
 <p><em>Developer at <a href="https://github.com/hakureiapp">Hakurei</a> and <a href="https://github.com/zeyrbot">Zeyr</a></em></p>
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/ruunao?label=Follow)](https://twitter.com/intent/follow?screen_name=ruunao)
-![GitHub followers](https://img.shields.io/github/followers/ruunao?label=Follow&style=social)
-![](https://komarev.com/ghpvc/?username=ruunao&color=blue)
-
-### 📫 Get in touch
-No.
 
 ### ⚙️ Stack
 ![](https://skillicons.dev/icons?i=git,docker,js,ts,cloudflare,css,deno,express,cpp,rust,arduino,graphql,html,nestjs,react,apollo,bash,lua,nextjs,nodejs,ps,powershell,neovim,postgres,tailwind,prisma)
