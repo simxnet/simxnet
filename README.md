@@ -1,5 +1,5 @@
 <h2>simxnet</h2>
-<p><em>Developer at <a href="https://github.com/hakureiapp">Hakurei</a> and <a href="https://github.com/zeyrbot">Zeyr</a></em></p>
+<p><em>Developer at <a href="https://github.com/dbotslist">discordbots</a></p>
 
 ### ⚙️ Stack
 ![](https://skillicons.dev/icons?i=git,docker,js,ts,cloudflare,css,deno,express,cpp,rust,arduino,graphql,html,nestjs,react,apollo,bash,lua,nextjs,nodejs,ps,powershell,neovim,postgres,tailwind,prisma)
