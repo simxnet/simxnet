@@ -6,9 +6,20 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-TypeScript   31 mins         ████████████████████████░   96.52 %
-CSS          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+```rust
+From: 21 May 2023 - To: 23 February 2024
+
+Total Time: 96 hrs 57 mins
+
+TypeScript   71 hrs 48 mins  >>>>>>>>>>>>>>>>>>-------   73.64 %
+Rust         7 hrs 36 mins   >>-----------------------   07.79 %
+Svelte       2 hrs 34 mins   >------------------------   02.64 %
+MDX          1 hr 54 mins    -------------------------   01.96 %
+Markdown     1 hr 43 mins    -------------------------   01.78 %
+Vue.js       1 hr 31 mins    -------------------------   01.56 %
+TSConfig     1 hr 12 mins    -------------------------   01.24 %
+Bash         57 mins         -------------------------   00.99 %
+Other        33 mins         -------------------------   00.58 %
 ```
 
 <!--END_SECTION:waka-->
