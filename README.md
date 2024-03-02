@@ -7,18 +7,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 May 2023 - To: 28 February 2024
+From: 21 May 2023 - To: 29 February 2024
 
-Total Time: 101 hrs
+Total Time: 107 hrs 8 mins
 
-TypeScript   75 hrs 32 mins  >>>>>>>>>>>>>>>>>>>------   74.27 %
-Rust         7 hrs 36 mins   >>-----------------------   07.47 %
-Svelte       2 hrs 34 mins   >------------------------   02.53 %
-MDX          1 hr 54 mins    -------------------------   01.87 %
-Markdown     1 hr 43 mins    -------------------------   01.70 %
-Vue.js       1 hr 31 mins    -------------------------   01.49 %
-Bash         1 hr 5 mins     -------------------------   01.08 %
-Other        41 mins         -------------------------   00.68 %
+TypeScript   81 hrs 10 mins  >>>>>>>>>>>>>>>>>>>------   75.25 %
+Rust         7 hrs 36 mins   >>-----------------------   07.05 %
+Svelte       2 hrs 34 mins   >------------------------   02.39 %
+MDX          1 hr 54 mins    -------------------------   01.77 %
+Markdown     1 hr 43 mins    -------------------------   01.61 %
+Vue.js       1 hr 31 mins    -------------------------   01.41 %
+Bash         1 hr 5 mins     -------------------------   01.02 %
+Other        43 mins         -------------------------   00.68 %
 ```
 
 <!--END_SECTION:waka-->
