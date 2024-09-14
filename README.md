@@ -7,20 +7,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 May 2023 - To: 11 September 2024
+From: 21 May 2023 - To: 12 September 2024
 
-Total Time: 302 hrs 1 min
+Total Time: 306 hrs 15 mins
 
-TypeScript       214 hrs 58 mins >>>>>>>>>>>>>>>>>>-------   70.73 %
-Rust             48 hrs          >>>>---------------------   15.79 %
-JSON             11 hrs 43 mins  >------------------------   03.86 %
-TOML             3 hrs 55 mins   -------------------------   01.29 %
-Markdown         3 hrs 18 mins   -------------------------   01.09 %
-JavaScript       2 hrs 51 mins   -------------------------   00.94 %
-Bash             2 hrs 41 mins   -------------------------   00.89 %
-Svelte           2 hrs 34 mins   -------------------------   00.85 %
-TSConfig         2 hrs 2 mins    -------------------------   00.67 %
-GraphQL          1 hr 57 mins    -------------------------   00.64 %
+TypeScript       216 hrs 14 mins >>>>>>>>>>>>>>>>>>-------   70.00 %
+Rust             50 hrs 54 mins  >>>>---------------------   16.48 %
+JSON             11 hrs 43 mins  >------------------------   03.79 %
+TOML             3 hrs 59 mins   -------------------------   01.29 %
+Markdown         3 hrs 18 mins   -------------------------   01.07 %
+JavaScript       2 hrs 51 mins   -------------------------   00.93 %
+Bash             2 hrs 41 mins   -------------------------   00.87 %
+Other            2 hrs 38 mins   -------------------------   00.85 %
 ```
 
 <!--END_SECTION:waka-->
