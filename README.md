@@ -8,13 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 May 2023 - To: 06 January 2025
+From: 21 May 2023 - To: 07 January 2025
 
-Total Time: 402 hrs 41 mins
+Total Time: 406 hrs 4 mins
 
-TypeScript       263 hrs 48 mins >>>>>>>>>>>>>>-----------   56.99 %
-Rust             89 hrs 33 mins  >>>>>--------------------   19.35 %
-Other            60 hrs 12 mins  >>>----------------------   13.01 %
+TypeScript       263 hrs 48 mins >>>>>>>>>>>>>>-----------   56.58 %
+Rust             92 hrs 41 mins  >>>>>--------------------   19.88 %
+Other            60 hrs 12 mins  >>>----------------------   12.91 %
 ```
 
 <!--END_SECTION:waka-->
