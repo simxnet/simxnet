@@ -9,6 +9,9 @@
 ### My stack
 ![](https://skillicons.dev/icons?i=git,docker,js,ts,cloudflare,css,deno,express,cpp,rust,graphql,html,nestjs,react,apollo,bash,lua,nextjs,nodejs,powershell,neovim,postgres,tailwind,prisma)
 
+### My Spotify status
+![](https://muzyard.vercel.app/widget/1076700780175831100)
+
 <!--START_SECTION:waka-->
 
 ```rust
