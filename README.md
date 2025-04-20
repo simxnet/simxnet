@@ -1,16 +1,20 @@
-<h2>Howdy, I'm Simxnet<img src="https://cdn.discordapp.com/emojis/996501169105031258.gif?size=96&quality=lossless" width="30" /></h2>
-<p><em>Frontend developer :P</p>
-<p>I am from Pankow, Germany <img src="https://www.emojibase.com/resources/img/emojis/apple/x1f1e9-1f1ea.png.pagespeed.ic.LQebQuvdHb.png" width="20" /> but I currently live at Mallorca, Spain <img src="https://www.emojibase.com/resources/img/emojis/apple/1f1ea-1f1f8.png" width="20" /></p>
+<h2>simxnet <img src="https://cdn.discordapp.com/emojis/1337632276615266417.webp?size=96&animated=true" width="30" /></h2>
+<p><em>Frontend developer :P</em></p>
+<p>I am from Pankow, Germany <img src="https://flagsapi.com/BE/flat/64.png" width="20" /> but I currently live at Mallorca, Spain <img src="https://flagsapi.com/ES/flat/64.png" width="20" /></p>
+<p>I'm currently learning Russian <img src="https://flagsapi.com/RU/flat/64.png" width="20" /> and French <img src="https://flagsapi.com/FR/flat/64.png" width="20" /></p>
 
+### Availability for hire
 <p>I am <strong>not</strong> available for hire at this moment.</p>
 
-<p>I'm currently learning Russian <img src="https://em-content.zobj.net/source/apple/391/flag-russia_1f1f7-1f1fa.png" width="20" /> and French <img src="https://em-content.zobj.net/source/apple/391/flag-france_1f1eb-1f1f7.png" width="20" /></p>
+### Contact
+You can use any of my 2 emails:
+
+**simxnet@vk.com**
+
+**belize@envs.net**
 
 ### My stack
-![](https://skillicons.dev/icons?i=git,docker,js,ts,cloudflare,css,deno,express,cpp,rust,graphql,html,nestjs,react,apollo,bash,lua,nextjs,nodejs,powershell,neovim,postgres,tailwind,prisma)
-
-### My Spotify status
-![](https://muzyard.vercel.app/widget/1076700780175831100?theme=catppuccin&showuser&blurbg)
+![](https://skillicons.dev/icons?i=git,docker,neovim,typescript,javascript,rust,react,remix,nextjs,prisma,postgresql,mysql,sqlite)
 
 <!--START_SECTION:waka-->
 
