@@ -1,7 +1,7 @@
 <h2>simxnet <img src="https://cdn.discordapp.com/emojis/1337632276615266417.webp?size=96&animated=true" width="30" /></h2>
-<p><em>Frontend developer :P</em></p>
-<p>I am from Pankow, Germany <img src="https://flagsapi.com/BE/flat/64.png" width="20" /> but I currently live at Mallorca, Spain <img src="https://flagsapi.com/ES/flat/64.png" width="20" /></p>
-<p>I'm currently learning Russian <img src="https://flagsapi.com/RU/flat/64.png" width="20" /> and French <img src="https://flagsapi.com/FR/flat/64.png" width="20" /></p>
+<p><em>Temporarily retired</em> frontend developer.</p>
+<p>Born in Germany <img src="https://flagsapi.com/BE/flat/64.png" width="20" />, living in Spain <img src="https://flagsapi.com/ES/flat/64.png" width="20" /></p>
+<p>Currently trying to master Russian <img src="https://flagsapi.com/RU/flat/64.png" width="20" /> and French <img src="https://flagsapi.com/FR/flat/64.png" width="20" /></p>
 
 ### Availability for hire
 <p>I am <strong>not</strong> available for hire at this moment.</p>
