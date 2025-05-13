@@ -19,7 +19,7 @@ You can use any of my 2 emails:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 May 2023 - To: 10 May 2025
+From: 21 May 2023 - To: 11 May 2025
 
 Total Time: 485 hrs 44 mins
 
